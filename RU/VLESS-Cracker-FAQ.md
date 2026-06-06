@@ -211,7 +211,7 @@ VLESS больше не безопасен.
 
 ### ❓ Где взять файл `characteristic.txt`?
 
-Он уже есть в репозитории: [characteristic.txt](https://github.com/Anonymous376c1d0cf28/VLESS-cracker/blob/main/characteristic.txt)
+Он уже есть в репозитории: [characteristic.txt](../characteristic.txt)
 
 ---
 
