@@ -1,6 +1,8 @@
-Отличная идея! Вот FAQ по коду `vless-cracker-v1.c` для тех, кто не хочет вникать в дебри:
 
 ---
+
+//---AI Generated---//
+
 
 ## FAQ по VLESS-cracker PoC
 
